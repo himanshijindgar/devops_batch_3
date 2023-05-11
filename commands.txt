@@ -1,0 +1,6 @@
+git init - to initialize
+git status - check status of file
+git add - to stage a file
+git commit - to commit a file
+git log - to check logs
+git diff - to check difference between two files
